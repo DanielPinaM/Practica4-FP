@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\usuario\documents\ucm\fp\practica 4\practica4_v3\listacadenas.h(14): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tListaCadenas' cuando no hay ninguna variable declarada
+c:\users\usuario\documents\ucm\fp\practica 4\practica4_v3\clavevalor.h(11): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tClaveValor' cuando no hay ninguna variable declarada
+c:\users\usuario\documents\ucm\fp\practica 4\practica4_v3\clavevalor.h(17): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tIndicePalabras' cuando no hay ninguna variable declarada
+c:\users\usuario\documents\ucm\fp\practica 4\practica4_v3\matrices.h(14): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tMatriz' cuando no hay ninguna variable declarada
+c:\users\usuario\documents\ucm\fp\practica 4\practica4_v3\matrices.h(19): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tVector' cuando no hay ninguna variable declarada
+  main.vcxproj -> C:\Users\Usuario\Documents\UCM\FP\Practica 4\Practica4_v3\Debug\main.exe
+  main.vcxproj -> C:\Users\Usuario\Documents\UCM\FP\Practica 4\Practica4_v3\Debug\main.pdb (Full PDB)
